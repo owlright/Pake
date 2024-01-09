@@ -8,6 +8,7 @@ pub struct WindowConfig {
     pub width: f64,
     pub height: f64,
     pub resizable: bool,
+    pub decorations: bool,
     pub url_type: String,
 }
 

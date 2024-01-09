@@ -26,6 +26,9 @@
       "fs": {
         "all": true,
         "scope": ["$DOWNLOAD/*"]
+      },
+      "window": {
+        "all":true
       }
     }
   },
