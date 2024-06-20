@@ -2,7 +2,7 @@
 
 ## Shortcuts
 | Mac                         | Windows/Linux                  | Function                      |
-|-----------------------------|--------------------------------|-------------------------------|
+| --------------------------- | ------------------------------ | ----------------------------- |
 | <kbd>⌘</kbd> + <kbd>[</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> | Return to the previous page   |
 | <kbd>⌘</kbd> + <kbd>]</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> | Go to the next page           |
 | <kbd>⌘</kbd> + <kbd>↑</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd> | Auto scroll to top of page    |
@@ -20,7 +20,7 @@ In addition, double-click the title bar to switch to full-screen mode. For Mac u
 
 ## Before starting
 
-1. **For beginners**: Play with Popular Packages to find out Pake's capabilities, or try to pack your application with [GitHub Actions](https://github.com/tw93/Pake/wiki/Online-Compilation-(used-by-ordinary-users)). Don't hesitate to reach for assistance at [Discussion](https://github.com/tw93/Pake/discussions)!
+1. **For beginners**: Play with Popular Packages to find out Pake's capabilities, or try to pack your application with [GitHub Actions](<https://github.com/tw93/Pake/wiki/Online-Compilation-(used-by-ordinary-users)>). Don't hesitate to reach for assistance at [Discussion](https://github.com/tw93/Pake/discussions)!
 2. **For developers**: “Command-Line Packaging” supports macOS fully. For Windows/Linux users, it requires some tinkering. [Configure your environment](https://tauri.app/v1/guides/getting-started/prerequisites) before getting started.
 3. **For hackers**: For people who are good at both front-end development and Rust, how about customizing your apps' function more with the following [Customized Development](#development)?
 
